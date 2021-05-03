@@ -193,3 +193,27 @@ footer{
     color: rgb(0, 0, 0);
 }
 
+#menu0 nav-1 primero {
+    text-align: center;
+    padding-left: 0;
+    list-style: none;
+    display: flex;
+    background-color: lightskyblue;
+
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 0;
+    height: 50px;
+}
+
+#menu-principal a {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+/* Elementos Flexibles */
+#menu-principal li:hover {
+    background-color: lightsalmon;
+}
