@@ -107,16 +107,7 @@ ul,li {
     list-style: none;
 }
 
-.menu-lista li{
-    display: inline-block;
-    text-align: center;
-  }
 
-.menu-lista img{
-    
-    width: 20px;
-    height: 20px;
-}
 
 .ventilacion-img img{
     width: 40px;
