@@ -193,7 +193,7 @@ footer{
     color: rgb(0, 0, 0);
 }
 
-#menu0 nav-1 primero {
+.menu-lista {
     text-align: center;
     padding-left: 0;
     list-style: none;
@@ -206,7 +206,7 @@ footer{
     height: 50px;
 }
 
-#menu-principal a {
+.menu-lista a {
     color: black;
     font-weight: bold;
     text-decoration: none;
@@ -214,6 +214,6 @@ footer{
 
 
 /* Elementos Flexibles */
-#menu-principal li:hover {
+.menu-lista li:hover {
     background-color: lightsalmon;
 }
